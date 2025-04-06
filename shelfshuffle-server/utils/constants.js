@@ -1,0 +1,1 @@
+export const BOOK_CONDITIONS = ["New", "Like New", "Good", "Fair", "Poor"];
